@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey, I'm InvalidoUser 👋
 
-<!--
-**InvalidoUser/InvalidoUser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Year 13 student from the UK teaching myself backend development
+before starting Biomedical Engineering at university.
 
-Here are some ideas to get you started:
+## 🚀 Currently
+- Working through Boot.dev's full Back-end Developer Path
+## 🎯 Goals
+- Complete the full Back-end Developer Path
+- Build projects in Python, Go and SQL
+- Explore IoT and physical computing with Raspberry Pi
+- Apply programming skills to Biomedical Engineering at university
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 📂 Projects
+- [Boot.dev Backend Path](https://github.com/InvalidoUser/bootdev-backend-path) - My progress through Boot.dev's full backend curriculum
