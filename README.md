@@ -3,9 +3,9 @@
 Year 13 student from the UK teaching myself backend development
 before starting Biomedical Engineering at university.
 
-## 🚀 Currently
+##    Currently
 - Working through Boot.dev's full Back-end Developer Path
-## 🎯 Goals
+##    Goals
 - Complete the full Back-end Developer Path
 - Build projects in Python, Go and SQL
 - Explore IoT and physical computing with Raspberry Pi
