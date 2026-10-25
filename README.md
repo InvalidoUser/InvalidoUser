@@ -1,6 +1,6 @@
 # hey, I'm invalido
 
-I make games and other small, strange things in C++, mostly on engines I write myself.
+I make games and other small, strange things in C++, mostly on custom engines.
 
 <p>
   <a href="https://github.com/InvalidoUser/Anaise">
